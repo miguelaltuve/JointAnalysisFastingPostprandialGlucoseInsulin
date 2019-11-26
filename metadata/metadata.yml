@@ -1,0 +1,24 @@
+metadata_version: 1
+name: Joint analysis of fasting and postprandial plasma glucose and insulin concentrations
+  in Venezuelan women
+description: 'This capsule contains the code for reproducing the result of the paper
+  entitled "Joint analysis of fasting and postprandial plasma glucose and insulin
+  concentrations in Venezuelan women." published in Diabetes & Metabolic Syndrome:
+  Clinical Research & Reviews.'
+tags:
+- MATLAB
+- Glucose
+- Insulin
+- Venezuela
+- Prediabetes
+- Diabetes
+authors:
+- name: Miguel Altuve
+  affiliations:
+  - name: Pontifical Bolivarian University
+- name: Erika Severeyn
+  affiliations:
+  - name: Simon Bolivar University
+corresponding_contributor:
+  name: Miguel Altuve
+  email: miguelaltuve@gmail.com
