@@ -1,8 +1,8 @@
-# Joint analysis of fasting and postprandial plasma glucose and insulin concentrations in Venezuelan women
+# JointAnalysisFastingPostprandialGlucoseInsulin
 
 Code of the paper Altuve, M., & Severeyn, E. (2019). Joint analysis of fasting and postprandial plasma glucose and insulin concentrations in Venezuelan women. Diabetes & Metabolic Syndrome: Clinical Research & Reviews, 13(3), 2242-2248. https://doi.org/10.1016/j.dsx.2019.05.029
 
-Cite the data as: Altuve, M., & Severeyn, E. (2019). Fasting and postprandial glucose and insulin dataset. IEEE Dataport. http://dx.doi.org/10.21227/5g52-jc59    
+**Cite the data as**: Altuve, M., & Severeyn, E. (2019). Fasting and postprandial glucose and insulin dataset. IEEE Dataport. http://dx.doi.org/10.21227/5g52-jc59    
 
 
 ## Abstract
