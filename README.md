@@ -4,6 +4,7 @@ Code of the paper Altuve, M., & Severeyn, E. (2019). Joint analysis of fasting a
 
 **Cite the data as**: Altuve, M., & Severeyn, E. (2019). Fasting and postprandial glucose and insulin dataset. IEEE Dataport. http://dx.doi.org/10.21227/5g52-jc59    
 
+**Cite the code as**: Altuve, M., & Severeyn, E. (2019) Joint analysis of fasting and postprandial plasma glucose and insulin concentrations in Venezuelan women [Source Code]. https://doi.org/10.24433/CO.6764131.v1
 
 ## Abstract
 
